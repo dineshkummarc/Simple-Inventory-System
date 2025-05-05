@@ -4,7 +4,7 @@ $localhost = "localhost";
 $username = "root";
 $password = "";
 $dbname = "sinventoryphp";
-$store_url = "http://localhost/SimpleInventorySystem-PHP/";
+$store_url = "http://localhost/Simple-Inventory-System/";
 // db connection
 $connect = new mysqli($localhost, $username, $password, $dbname);
 // check connection
